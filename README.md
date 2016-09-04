@@ -1,2 +1,3 @@
 # hello-world
-repository
+Im here to create a virtual currency like bitcoin
+thanks for the help
